@@ -1,0 +1,31 @@
+#campoBuscar::placeholder {
+    color: #000000;
+}
+
+.font-size-padrao {
+    font-size: 16px !important;
+}
+
+.font-size-maior {
+    font-size: 18px !important;
+}
+
+.font-size-medio {
+    font-size: 14px !important;
+}
+
+.font-size-pequeno {
+    font-size: 12px !important;
+}
+
+.text-cinza-escuro {
+    color: #8b8b8b;
+}
+
+.bg-cinza {
+    background-color: #eeeded;
+}
+
+.bg-cinza-escuro {
+    background-color: #dadada;
+}
